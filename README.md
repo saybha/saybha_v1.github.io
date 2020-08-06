@@ -1,4 +1,14 @@
 ## Hi! I'm Sayak Bhattacharjee.
+ 
+-> Disclaimer
+ 
+This is a temporary webpage made just to see if things work out as they are written on the Internet. Ahem. 
+There's better stuff to come, I promise, it's just a matter of managing time now. 
+Cheers!
+
+Mail me at sayakb [AT] iitk . ac . in. 
+
+--- Keeping alll the defaults below because who knows what comes in handy when. ---
 
 You can use the [editor on GitHub](https://github.com/saybha/saybha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
